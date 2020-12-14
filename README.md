@@ -1,1 +1,1 @@
-# blog-profile
+# Design-thinking-blog-exercise
